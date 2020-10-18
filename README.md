@@ -9,32 +9,32 @@
 # API Methods
 
 # Fight Cards
-GET
+GET<br/>
 /fightcards
-
+<br/>
 Returns all fight cards and IDs
 
-/fightcards/{fightCardID}
-Returns fight card(s) for supplied ID(s)
+/fightcards/{fightCardID}<br/>
+Returns fight card(s) for supplied ID(s)<br/>
 Multiple IDs can be separated by commas
-
-/fightcards/fights/{fightCardID}
-Returns fights for card for supplied ID
+<br/>
+/fightcards/fights/{fightCardID}<br/>
+Returns fights for card for supplied ID<br/>
 
 # Fight
-GET
-/fights
+GET<br/>
+/fights<br/>
 
-Returns all fights and IDs
+Returns all fights and IDs<br/>
 
-GET
-/fights/{fightID}
-Returns fight info for supplied ID(s)
-Multiple IDs can be separated by commas
+GET<br/>
+/fights/{fightID}<br/>
+Returns fight info for supplied ID(s)<br/>
+Multiple IDs can be separated by commas<br/>
 
 
 # FightStats
-GET
-/fightstats/{fightID}
+GET<br/>
+/fightstats/{fightID}<br/>
 
-Returns fight stats for the supplied ID
+Returns fight stats for the supplied ID<br/>

@@ -4,7 +4,7 @@
  Scrapes statistics from http://ufcstats.com into an MSSQL database
  
  # About
- As most mainstream sports are fully embracing analytics, UFC seems to lag behind. One reason for this could be the lack of public tools that allow you to easily pull a dataset. The UFC API provides a clean UFC dataset in a friendly JSON format.
+ As most mainstream sports are fully embracing analytics, UFC seems to lag behind. One reason for this could be the lack of public tools that allow you to easily pull data. The UFC API provides a clean UFC dataset in a friendly JSON format.
 
 # API Methods
 

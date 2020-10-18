@@ -1,5 +1,5 @@
 # UFCData
- UFC Web scrapper, database, and API
+ UFC Web scraper, database, and API
  
  Scrapes statistics from http://ufcstats.com into an MSSQL database
 

@@ -21,7 +21,8 @@ Multiple IDs can be separated by commas
 /fightcards/fights/{fightCardID}<br/>
 Returns fights for card for supplied ID<br/>
 
-https://i.imgur.com/BaT1shA.png
+![fightcards](https://i.imgur.com/BaT1shA.png)
+
 
 # Fight
 GET<br/>
@@ -33,7 +34,8 @@ GET<br/>
 Returns fight info for supplied ID(s)<br/>
 Multiple IDs can be separated by commas<br/>
 
-https://i.imgur.com/ZALSWHo.png
+![fight](https://i.imgur.com/ZALSWHo.png)
+
 
 # FightStats
 GET<br/>
@@ -41,4 +43,5 @@ GET<br/>
 
 Returns fight stats for the supplied ID<br/>
 
-https://i.imgur.com/JCCUoBf.png
+![fight](https://i.imgur.com/JCCUoBf.png)
+

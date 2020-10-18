@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JCxFMyoogGRp9zpR7h4nXSQenz9df/G+vpRJa1BaG7cjDWsHTLDwWdA4YQiATBJejWFOsqV/pD4JKqzanbvKvQ==",
+  "dgSpecHash": "fhgLH8DqNfZ03IA9tuzs64UfLuIM+hr8NmPI8lJTU8C6HPWV3i0oNDmufNidkzcN5BRlKAX65mH87sNXU7LgDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chris\\source\\repos\\UFCData\\UFCAPI\\UFCAPI\\UFCAPI.csproj",
+  "projectFilePath": "C:\\Users\\Chris\\source\\repos\\UFCData\\UFCData\\UFCAPI\\UFCAPI\\UFCAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chris\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

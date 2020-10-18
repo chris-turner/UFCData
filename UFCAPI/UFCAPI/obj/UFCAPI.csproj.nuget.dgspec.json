@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chris\\source\\repos\\UFCData\\UFCAPI\\UFCAPI\\UFCAPI.csproj": {}
+    "C:\\Users\\Chris\\source\\repos\\UFCData\\UFCData\\UFCAPI\\UFCAPI\\UFCAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chris\\source\\repos\\UFCData\\UFCAPI\\UFCAPI\\UFCAPI.csproj": {
+    "C:\\Users\\Chris\\source\\repos\\UFCData\\UFCData\\UFCAPI\\UFCAPI\\UFCAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\UFCData\\UFCAPI\\UFCAPI\\UFCAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\UFCData\\UFCData\\UFCAPI\\UFCAPI\\UFCAPI.csproj",
         "projectName": "UFCAPI",
-        "projectPath": "C:\\Users\\Chris\\source\\repos\\UFCData\\UFCAPI\\UFCAPI\\UFCAPI.csproj",
+        "projectPath": "C:\\Users\\Chris\\source\\repos\\UFCData\\UFCData\\UFCAPI\\UFCAPI\\UFCAPI.csproj",
         "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chris\\source\\repos\\UFCData\\UFCAPI\\UFCAPI\\obj\\",
+        "outputPath": "C:\\Users\\Chris\\source\\repos\\UFCData\\UFCData\\UFCAPI\\UFCAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",

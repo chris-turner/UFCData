@@ -17,15 +17,14 @@ Returns all fight cards and IDs
 /fightcards/{fightCardID}<br/>
 Returns fight card(s) for supplied ID(s)<br/>
 Multiple IDs can be separated by commas
-<br/>
+<br/><br/>
 /fightcards/fights/{fightCardID}<br/>
 Returns fights for card for supplied ID<br/>
 
 # Fight
 GET<br/>
 /fights<br/>
-
-Returns all fights and IDs<br/>
+Returns all fights and IDs<br/><br/>
 
 GET<br/>
 /fights/{fightID}<br/>

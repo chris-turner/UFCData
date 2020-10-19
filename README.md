@@ -1,10 +1,7 @@
 # UFCData
  UFC Web scraper, database, and API
  
- Scrapes statistics from http://ufcstats.com into an MSSQL database
- 
- # About
- As most mainstream sports are fully embracing analytics, UFC seems to lag behind. One reason for this could be the lack of public tools that allow you to easily pull data. The UFC API provides a clean UFC dataset in a friendly JSON format.
+ Scrapes UFC/MMA statistics into an MSSQL database and makes them accessible via an API, returning the data in JSON.
 
 # API Methods
 
